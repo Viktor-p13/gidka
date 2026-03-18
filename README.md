@@ -15,3 +15,4 @@ zipotr
 mopik
 fur
 oprit
+kemparos
