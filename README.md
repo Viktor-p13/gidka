@@ -12,3 +12,4 @@ eruop
 fuk
 combo
 zipotr
+mopik
