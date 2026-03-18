@@ -13,3 +13,4 @@ fuk
 combo
 zipotr
 mopik
+fur
