@@ -16,3 +16,4 @@ mopik
 fur
 oprit
 kemparos
+dipokit
